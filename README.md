@@ -1,5 +1,4 @@
 # Active-Directory--Simulation
-# Active-Directory--Simulation 
 Active Directory- Simulation 
 # Active Directory Simulation – cybertech Corporate Services' 
 This project is the deployment of a Windows Server Domain Controller (Active Directory) 
