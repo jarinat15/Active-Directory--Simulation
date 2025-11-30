@@ -2,10 +2,10 @@
 Active Directory- Simulation 
 # Active Directory Simulation – cybertech Corporate Services' 
 This project is the deployment of a Windows Server Domain Controller (Active Directory) 
-for a company called **KIFKIM Corprate Services**. It includes domain setup, client 
+for a company called **cybertech Corprate Services**. It includes domain setup, client 
 configuration, OU design, group policies, and access control in an enterprise environment. --- 
 ## Company Overview/ Operating System 
-**KIFKIM Corporate Service** is a small Management consultancy activity other than 
+**cybertech Corporate Service** is a small Management consultancy activity other than 
 f
  inancial management. The following are its structure: - 1 x Windows Server (AD Domain Controller) - 1 x Windows 8 Client PC (HR) - 1 x Windows 8 Client PC (IT) --- 
 ## Project Objectives - Configure an AD Domain Controller on Windows Server - Join client PCs to the domain - Create Organizational Units (OUs) - Implement basic Group Policies for access control - Simulate a centralized IT environment 
