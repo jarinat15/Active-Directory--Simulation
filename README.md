@@ -40,9 +40,9 @@ Created using **Active Directory Users and Computers**:
 ``` 
 cybertech.local 
 ├── OU: HR Team 
-│   └── Users: Alex.HR 
+│   └── Users: TIMI.HR 
 ├── OU: IT 
-│   └── Users:Mateen.IT 
+│   └── Users:JAYJAY.IT 
 ``` --- 
 ## Group Policy (GPO) 
 Created and linked using **Group Policy Management Console (gpmc.msc)**: - **GPO Name**: `DisableRemovableDrives` - **Linked to**: OU: IT Department 
