@@ -6,8 +6,7 @@ for a company called **cybertech Corprate Services**. It includes domain setup, 
 configuration, OU design, group policies, and access control in an enterprise environment. --- 
 ## Company Overview/ Operating System 
 **cybertech Corporate Service** is a small Management consultancy activity other than 
-f
- inancial management. The following are its structure: - 1 x Windows Server (AD Domain Controller) - 1 x Windows 8 Client PC (HR) - 1 x Windows 8 Client PC (IT) --- 
+financial management. The following are its structure: - 1 x Windows Server (AD Domain Controller) - 1 x Windows 8 Client PC (HR) - 1 x Windows 8 Client PC (IT) --- 
 ## Project Objectives - Configure an AD Domain Controller on Windows Server - Join client PCs to the domain - Create Organizational Units (OUs) - Implement basic Group Policies for access control - Simulate a centralized IT environment 
 --- 
 ## Network Design 
